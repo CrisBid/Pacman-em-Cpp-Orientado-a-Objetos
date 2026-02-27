@@ -33,13 +33,13 @@ O projeto utiliza:
 ## 🔹 Menu Inicial
 
 <p align="center">
-  <img src="docs/menu.png" width="800"/>
+  <img src="Projeto/Images/Menu.png" width="800"/>
 </p>
 
 ## 🔹 Gameplay
 
 <p align="center">
-  <img src="docs/gameplay.png" width="800"/>
+  <img src="Projeto/Images/Jogo.png" width="800"/>
 </p>
 
 ---
